@@ -1,10 +1,13 @@
+body {
+  background-color: yellow;
+}
+
 h1 {
   color: orange;
   text-align: center;
 }
 
 .foods {
-  background-color: #f0e68c;
   color: black;
   font-size: 24px;
 }
