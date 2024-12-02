@@ -2,7 +2,7 @@
 var template = `
     <ul>
         {{#data}}
-        <li>Name: {{name}}, Age: {{age}}, City: {{city}}</li>
+        <li>Food: {{food}}, Calories: {{calories}}</li>
         {{/data}}
     </ul>
 `;
